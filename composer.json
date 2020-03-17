@@ -1,0 +1,9 @@
+{
+    "name": "felix-lessoer/cakephp-elasticapm",
+    "description": "Monitor your cakephp project with elastic APM",
+    "require": {
+        "php": "^7.2",
+        "philkra/elastic-apm-php-agent": "^7.0.0-rc3",
+		"cakephp/cakephp": "3.*"
+    }
+}
